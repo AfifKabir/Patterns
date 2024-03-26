@@ -3,5 +3,7 @@ using namespace std;
 
 int main() {
     cin.tie(0)->sync_with_stdio(0);
-    print("I am Afif!!")
+    int T;
+    cin >> T;
+    while (T--) {}
 }
