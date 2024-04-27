@@ -65,12 +65,12 @@ for (int row = 1; row <= n; row++) {
             }
             printf("\n");
         }
- /*
-    A
-    AB
-    ABC
-    ....
-    */
+/*
+A
+AB
+ABC
+....
+*/
  for (int row = 1; row <= n; row++) {
                 for (int col = 1; col <= row; col++) {
                     printf("%c",col+64);
